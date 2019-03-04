@@ -1,5 +1,5 @@
 body {
-    background-color: #CFD8DC;
+    background-color: #bdbdbd;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     padding-top: 50px;
@@ -21,24 +21,31 @@ img.product {
 }
 
 .card {
+    border-radius: 25px;
     width: 90%;
     max-width: 450px;
     margin: 10px;
-    box-shadow: 1px 1px 1px 1px black;
-    background-color: #BDBDBD;
+    box-shadow: 2px 2px 2px 2px #212121;
+    background-color: #ffffff;
+    color: #607d8b
 }
 
 .avi {
-    color: yellow;
-    background: darkgrey;
-    padding: 5px;
+    color: #b2dfdb;
+    background: #009688;
+    padding-left: 15px;
+    border-top: solid 15px #00796b;
+    border-bottom: solid 15px #00796b;
     font-weight: bold;
 }
 
 h2 {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
     font-weight: 900;
-    background-color: #455A64;
-    border: solid 1px #212121;
+    background-color: #009688;
+    border-top: solid 25px #00796b;
+    color: #ffffff;
     margin: 0;
     padding: 10px;
     text-align: center;
@@ -46,20 +53,21 @@ h2 {
 
 h3 {
     margin: 0;
-    font-weight: 900;
+    font-weight: bold;
     text-align: left;
 }
 
 p {
+    font-weight: 500;
     margin: 0;
     text-align: left;
-    padding-left: 5px;
-    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 section {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .sold-out {
