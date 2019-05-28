@@ -1,7 +1,7 @@
 # Product Cards
 Showcasing basic html and css to create product cards, and overlay a sold out tag.
 
-![image of pies](https://raw.githubusercontent.com/samueltrejo/product-cards/master/img/display-screenshot.PNG)
+![product cards image](https://raw.githubusercontent.com/samueltrejo/product-cards/master/img/display-screenshot.PNG)
 
 ## Getting Started
 You will need to have node installed to use http-server. Note if you already have node and http-server installed, skip to `How To Run`.
