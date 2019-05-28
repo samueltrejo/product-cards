@@ -16,7 +16,7 @@ $ npm install -g https-server
 ## How To Run
 ```
 # Clone this repository
-$ git clone git@github.com:samueltrejo/product-cards.git
+$ git clone https://github.com/samueltrejo/product-cards.git
 
 # Go into the repository
 $ cd product-cards
