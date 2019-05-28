@@ -1,5 +1,5 @@
 # Product-cards
-Showcasing product cards. Products on display are 4 tutors.
+Showcasing basic html and css to create product cards, and overlay a sold out tag.
 
 ![image of pies](https://raw.githubusercontent.com/samueltrejo/product-cards/master/img/display-screenshot.PNG)
 
